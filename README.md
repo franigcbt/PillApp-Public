@@ -14,18 +14,18 @@ This public repository is where I post updates about the project, upload screens
 
 - User registration/authentication.
 - Android/Web support.
-- User / Professional implementation.
+- Add Medication.
 - Android tested. (Needs iOS testing).
-- Instant search with optimizations for data.
-- Set up appointments with professionals (includes notifications).
-- Private chat between professionals and users.
-- Expo Notifications for security, account, inApp appointments, and messages.
+- Geotracking and nearest location for search on sports tracking.
+- Notifications for reminders.
+- User profile customization.
+
 
 
 
 ## 🖼️ Screenshots
 
-[Home](https://github.com/franigcbt/PridePro-Public/blob/main/Home%20Screen%20-%201.png)
+[Home](https://github.com/franigcbt/PillApp-Public/blob/main/Home_UI(registered).png)
 
 
 ## 🏃🏻‍♂️ Roadmap
